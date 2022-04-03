@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="14" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+      <class name="org.frame.Employee">
+        <test-method status="PASS" signature="Tc21()[pri:0, instance:org.frame.Employee@589b3632]" name="Tc21" duration-ms="8" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc21 -->
+        <test-method status="PASS" signature="Tc22()[pri:0, instance:org.frame.Employee@589b3632]" name="Tc22" duration-ms="0" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc22 -->
+        <test-method status="PASS" signature="Tc22()[pri:0, instance:org.frame.Employee@589b3632]" name="Tc22" duration-ms="1" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc22 -->
+        <test-method status="PASS" signature="Tc22()[pri:0, instance:org.frame.Employee@589b3632]" name="Tc22" duration-ms="0" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc22 -->
+        <test-method status="PASS" signature="Tc22()[pri:0, instance:org.frame.Employee@589b3632]" name="Tc22" duration-ms="0" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc22 -->
+        <test-method status="PASS" signature="Tc22()[pri:0, instance:org.frame.Employee@589b3632]" name="Tc22" duration-ms="1" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc22 -->
+        <test-method status="PASS" signature="Tc25()[pri:0, instance:org.frame.Employee@589b3632]" name="Tc25" duration-ms="1" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc25 -->
+        <test-method status="PASS" signature="Tc23()[pri:5, instance:org.frame.Employee@589b3632]" name="Tc23" duration-ms="1" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc23 -->
+      </class> <!-- org.frame.Employee -->
+      <class name="org.frame.FrameWorkClass1">
+        <test-method status="PASS" signature="Tc1()[pri:0, instance:org.frame.FrameWorkClass1@45f45fa1]" name="Tc1" duration-ms="1" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+        <test-method status="PASS" signature="Tc5()[pri:0, instance:org.frame.FrameWorkClass1@45f45fa1]" name="Tc5" duration-ms="1" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc5 -->
+        <test-method status="PASS" signature="Tc2()[pri:8, instance:org.frame.FrameWorkClass1@45f45fa1]" name="Tc2" duration-ms="0" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc2 -->
+        <test-method status="PASS" signature="Tc3()[pri:10, instance:org.frame.FrameWorkClass1@45f45fa1]" name="Tc3" duration-ms="0" started-at="2022-04-02T02:44:25Z" finished-at="2022-04-02T02:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc3 -->
+      </class> <!-- org.frame.FrameWorkClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
