@@ -24,11 +24,6 @@ public class FrameWorkClass1 {
 		// TODO Auto-generated method stub
 
 	}
-	@Test(enabled=true)
-	public void Tc5() {
-		// TODO Auto-generated method stub
-
-	}
 	
 
 }

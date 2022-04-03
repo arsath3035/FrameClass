@@ -8,7 +8,7 @@ public class Employee {
 		// TODO Auto-generated method stub
 
 	}
-	@Test(invocationCount = 5)
+	@Test()
 	public void Tc22() {
 		// TODO Auto-generated method stub
 
@@ -18,16 +18,13 @@ public class Employee {
 		// TODO Auto-generated method stub
 
 	}
-	@Test (enabled = false)
+	@Test ()
 	public void Tc24() {
 		// TODO Auto-generated method stub
 
 	}
-	@Test
-	public void Tc25() {
-		// TODO Auto-generated method stub
 
-	}
 	
+
 
 }
