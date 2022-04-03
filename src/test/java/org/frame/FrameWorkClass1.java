@@ -24,6 +24,11 @@ public class FrameWorkClass1 {
 		// TODO Auto-generated method stub
 
 	}
+	@Test
+	public void Tc5001() {
+		// TODO Auto-generated method stub
+
+	}
 	
 
 }

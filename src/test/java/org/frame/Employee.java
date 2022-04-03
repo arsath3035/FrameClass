@@ -23,6 +23,11 @@ public class Employee {
 		// TODO Auto-generated method stub
 
 	}
+	@Test
+	public void Tc1002() {
+		// TODO Auto-generated method stub
+
+	}
 
 	
 
